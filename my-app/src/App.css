@@ -1,0 +1,12 @@
+.box{
+  border: 1px solid;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  padding: 10px;
+
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
